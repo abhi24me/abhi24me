@@ -1,7 +1,7 @@
 # Hi there 👋 it's Abhishek Dubey 
 ## Hope you are doing Fine.
 
-### Here are some ideas to get you started:
+### KNOW ME BETTER BY LOOKING BELOW :
 
 - 🔭 I’m currently working on FIFA dataset.
 - 🌱 I’m currently learning DATA SCIENCE
