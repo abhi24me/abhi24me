@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,train,auto,cycle,byWalk 😄
-- ⚡ Fun fact: __Your nostrils work one at a time__
+- ⚡ Fun fact: __There’s enough gold inside Earth to coat the planet__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
