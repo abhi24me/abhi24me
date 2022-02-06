@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning DATA SCIENCE
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
-- 📫 How to reach me: By : Bus,train,auto,cycle,byWalk 😄
+- 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
 - ⚡ Fun fact: __It's illegal to own just one guinea pig in Switzerland__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
