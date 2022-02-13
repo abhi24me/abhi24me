@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
-- ⚡ Fun fact: __The dot over the lower case "i" or "j" is known as a "tittle."__
+- ⚡ Fun fact: __Space smells like seared steak.__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
