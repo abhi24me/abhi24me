@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
-- ⚡ Fun fact: __Sweden has 267,570 islands, the most of any country in the world__
+- ⚡ Fun fact: __It’s impossible to hum while holding your nose (just try it!)__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
