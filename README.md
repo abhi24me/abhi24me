@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
-- ⚡ Fun fact: __The earth’s circumference is 24,900 miles__
+- ⚡ Fun fact: __The first footprints on the moon will remain there for a million years__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
