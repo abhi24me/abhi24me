@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
-- ⚡ Fun fact: __It takes 570 gallons to paint the exterior of the White House__
+- ⚡ Fun fact: __We shake hands to show we’re unarmed__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
