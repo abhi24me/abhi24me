@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with PYTHON FRAMEWORKS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
-- ⚡ Fun fact: __The White House in Washington, DC, has 132 rooms, including 35 bathrooms__
+- ⚡ Fun fact: __Copper door knobs are self-disinfecting__
 - ⚡ There are 10 types of people :
 -     1: Those who understand binary
 -     2: Those who don't 
