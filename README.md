@@ -3,8 +3,8 @@
 
 ### Know Me Better By Looking Below :
 
-- 🔭 I’m currently working on FIFA dataset.
-- 🌱 I’m currently learning DATA SCIENCE
+- 🔭 I’m currently working in SequelString PVT. LTD..
+- 🌱 I’m currently learning pdf Extraction
 - 🤔 I’m looking for help with Automation Frameworks
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
