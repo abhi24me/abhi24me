@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working in SequelString PVT. LTD..
 - 🌱 I’m currently learning pdf Extraction
-- 🤔 I’m looking for help with Automation Frameworks
+- 🤔 I’m looking for help with Automation FrameworkS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
 - ⚡ Fun fact: __Copper door knobs are self-disinfecting__
