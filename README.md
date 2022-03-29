@@ -4,7 +4,7 @@
 ### Know Me Better By Looking Below :
 
 - 🔭 I’m currently working in SequelString PVT. LTD..
-- 🌱 I’m currently learning pdf Extraction
+- 🌱 I’m currently learning pdf Extraction & Web Automation
 - 🤔 I’m looking for help with Automation FrameworkS
 - 💬 Ask me about DATA and ITS VALUE
 - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk 😄
