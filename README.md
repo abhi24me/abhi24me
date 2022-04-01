@@ -3,7 +3,7 @@
 
 ### Know Me Better By Looking Below :
 
-- 🔭 I’m currently working in SequelString PVT. LTD..
+- 🔭 I’m currently working at SequelString PVT. LTD..
 - 🌱 I’m currently learning pdf Extraction & Web Automation
 - 🤔 I’m looking for help with Automation FrameworkS
 - 💬 Ask me about DATA and ITS VALUE
