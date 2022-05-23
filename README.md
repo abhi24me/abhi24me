@@ -8,7 +8,7 @@ try:
   - ⚡ Designation == Python Developer 
   - 🌱 Developing RPA (Robotic Process Automation)
   - 🤔 ### __Automate the boring Stuff..😄..__
-  - 💬 Ask me about == DATA and its VALUE.
+  - 💬 Ask me about == DATA and its VALUE == (infinite)
   - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk... 😄
   - ⚡ Fun fact: __Copper door knobs are self-disinfecting__
   - ⚡ There are 10 types of people :
