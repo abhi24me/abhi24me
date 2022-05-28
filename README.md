@@ -14,6 +14,6 @@ try:
   - ⚡ There are 10 types of people :
   -     1: Those who understand binary
   -     2: Those who don't 
-
+       
  except:
-  - print(" Updating Soon :) ")
+  - print(" Updating Soon :>) ")
