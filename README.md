@@ -5,7 +5,7 @@
 
 try:
   - 🔭 I’m currently working @ SequelString PVT.LTD.
-  - ⚡ Designation == Python Developer 
+  - ⚡ Designation == Python Developer :)
   - 🌱 Developing RPA (Robotic Process Automation)
   - 🤔 ### __Automate the boring Stuff..😄..__
   - 💬 Ask me about == DATA & its VALUE == (infinite)
