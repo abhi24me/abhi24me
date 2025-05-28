@@ -4,9 +4,9 @@
 ### Know Me Better By Looking Below :
 
 try:
-  - 🔭 I’m currently working @ SequelString PVT.LTD.
-  - ⚡ Designation == Python Developer :)
-  - 🌱 Developing RPA (Robotic Process Automation)
+  - 🔭 I’m currently working @ Perfios Software Solutions.
+  - ⚡ Designation == Software Engineer :)
+  - 🌱 Developing RPA (Robotic Process Automation / Web Scrapers)
   - 🤔 ### __Automate the boring Stuff..😄..__
   - 💬 Ask me about == DATA & its VALUE == (infinite)
   - 📫 How to reach me: By : Bus,Train,Auto,Cycle,ByWalk.... 😄
